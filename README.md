@@ -440,3 +440,9 @@ keep in mind as we build out more complex component trees.
 ## Resources
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/react-using-callbacks-to-pass-information-lab'>React Using Callbacks to Pass Information Lab</a> on Learn.co and start learning to code for free.</p>
+
+
+└── Matrix
+    ├── ColorSelector
+    └── Cell (x625)
+    
